@@ -24,7 +24,7 @@ Potential challenges with the analysis include the following:
 
 - Optimal time frames for launching Theater campaigns will be in the months, May, June, and July 
 
-- We can conclude as the campaign goals increase, the likelihood that a campaign fails increases. The exception is from the $35k-$45k goal range, where we saw an     increase in success rate.
+- We can conclude as the campaign goals increase, the likelihood that a campaign fails increases. The exception is for the $35k-$45k goal range, where we saw an     increase in success rate.
 
 - The highest failure rates for campaigns occurred when the goals were set $45k+. 
 
