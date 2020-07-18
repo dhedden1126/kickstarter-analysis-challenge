@@ -8,7 +8,7 @@ To understand and strategize when the optimal time is to launch a campaign and f
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of Theater Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/67982071/87855783-8191b800-c8e8-11ea-872b-165395d870dd.png)
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/67982071/87855777-79d21380-c8e8-11ea-91f1-5515aa099343.png)
